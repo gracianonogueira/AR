@@ -8,6 +8,11 @@
         <a-entity 
             obj-model=”obj: url(/path/to/nameOfFile.obj); 
             mtl: url(/path/to/nameOfFile.mtl)”>
+        <a-entity 
+            ollada-model=”url(/path/to/nameOfFile.dae)”>
+         </a-entity>
+        
+        
         </a-entity>
               
       </a-marker>
